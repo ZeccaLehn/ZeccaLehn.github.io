@@ -1,0 +1,12 @@
+# Site settings
+title: DS on a Cloud
+email: zgit@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Data Science | Finance | Sustainability
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ZeccaLehn.github.com" # the base hostname & protocol for your site
+twitter_username: Zecca_Lehn
+github_username:  ZeccaLehn
+
+# Build settings
+markdown: kramdown

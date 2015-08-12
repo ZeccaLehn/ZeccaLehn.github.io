@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DS on a Cloud</title>
+    <description>Data Science | Finance | Sustainability
+</description>
+    <link>http://ZeccaLehn.github.com/</link>
+    <atom:link href="http://ZeccaLehn.github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Aug 2015 09:30:19 -0700</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2015 09:30:19 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>First Blog Post with Jekyll</title>
+        <description>&lt;p&gt;Have been wanting to explore the Jekyll static framework for some time. Decided to finally jump in and give it a try, as I have some experience in Ruby / Rails. Jekyll couples well Github, allows for easy post updates, and is free! This site will serve as a Data Science channel for useful R and Python &lt;code&gt;code chunks&lt;/code&gt;, links to useful data munging and machine learning sources, and other go-to info which will benefit the DS community.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-those-rstatshttpstwittercomhashtagrstats-folk-remember&quot;&gt;For those &lt;a href=&quot;https://twitter.com/hashtag/rstats&quot;&gt;#Rstats&lt;/a&gt; folk, remember:&lt;/h4&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# prints data&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;If you’re interested in getting started with static site generation using Jekyll, you may want to check out these sites:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;jekyll &lt;a href=&quot;http://jekyllrb.com&quot;&gt;http://jekyllrb.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;jekyll-gh &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;https://github.com/jekyll/jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;jekyll-help &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;https://github.com/jekyll/jekyll-help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 10:39:05 -0700</pubDate>
+        <link>http://ZeccaLehn.github.com/jekyll/update/2015/08/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ZeccaLehn.github.com/jekyll/update/2015/08/11/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
